@@ -1,0 +1,17 @@
+.stopwatch-title {
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.stopwatch-time {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.stopwatch-button {
+  font-size: 15px;
+}
